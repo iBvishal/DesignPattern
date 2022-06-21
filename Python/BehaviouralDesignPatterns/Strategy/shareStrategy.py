@@ -1,4 +1,4 @@
-from shareStrategy import ShareStrategyInterface
+from interface import ShareStrategyInterface
 
 class EmailStrategy(ShareStrategyInterface):
     
